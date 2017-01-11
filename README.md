@@ -1,2 +1,2 @@
-# Accounting-for-Conquest-Tables
+# Accounting for Conquest Tables
 Tables of data used in Accounting for Conquest 
